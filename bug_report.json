@@ -1,1 +1,8 @@
-
+{
+  "Summary": "Typo in a word Google",
+  "Type": "Bug",
+  "Environment": "Windows" 10, "Google Chrome",
+  "Priority": "High",
+  "Severity": "Low",
+  "Reporter": "Oksana Rak"
+}
