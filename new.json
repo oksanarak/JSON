@@ -1,6 +1,14 @@
 {
-	"Rak Oksana Arturovna",
-	"Age": 31,
-	"Pets": "don't have",
-	"Salary": 1000
+	"Name": [
+		"Rak Oksana Arturovna"
+	],
+	"Age": [
+		31
+	],
+	"Pets": [
+		"don't have"
+	],
+	"Salary": [
+		1000
+	]
 }
